@@ -1,0 +1,11 @@
+Count,Pathway ID,Description,Database,Ratio_in_study,Ratio_in_pop,Rich_factor,pvalue,Padjust,Category,Second Category
+136,taes04141,Protein processing in endoplasmic reticulum,KEGG PATHWAY,"136/	2083","1120/	44787",0.121428571,1.74E-24,2.18E-22,Genetic Information Processing,"Folding, sorting and degradation"
+101,taes04075,Plant hormone signal transduction,KEGG PATHWAY,"101/	2083","1756/	44787",0.057517084,0.016887681,0.111103167,Environmental Information Processing,Signal transduction
+95,taes04626,Plant-pathogen interaction,KEGG PATHWAY,"95/	2083","1301/	44787",0.073020753,1.12E-05,0.00023429,Organismal Systems,Environmental adaptation
+91,taes03010,Ribosome,KEGG PATHWAY,"91/	2083","1355/	44787",0.067158672,0.000322074,0.00503241,Genetic Information Processing,Translation
+73,taes04016,MAPK signaling pathway - plant,KEGG PATHWAY,"73/	2083","876/	44787",0.083333333,1.37E-06,5.71E-05,Environmental Information Processing,Signal transduction
+55,taes00500,Starch and sucrose metabolism,KEGG PATHWAY,"55/	2083","757/	44787",0.072655218,0.000826641,0.00939365,Metabolism,Carbohydrate metabolism
+39,taes00999,Biosynthesis of various plant secondary metabolites,KEGG PATHWAY,"39/	2083","408/	44787",0.095588235,2.00E-05,0.000357817,Metabolism,Biosynthesis of other secondary metabolites
+38,taes00460,Cyanoamino acid metabolism,KEGG PATHWAY,"38/	2083","363/	44787",0.104683196,3.19E-06,9.96E-05,Metabolism,Metabolism of other amino acids
+29,taes02010,ABC transporters,KEGG PATHWAY,"29/	2083","345/	44787",0.084057971,0.001689074,0.017594519,Environmental Information Processing,Membrane transport
+28,taes00250,"Alanine, aspartate and glutamate metabolism",KEGG PATHWAY,"28/	2083","219/	44787",0.127853881,1.37E-06,8.56E-05,Metabolism,Amino acid metabolism

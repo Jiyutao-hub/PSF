@@ -1,0 +1,11 @@
+Count,ID,Description,GeneRatio,BgRatio,Rich_factor,pvalue,padjust,Category,subcategory
+108,taes04141,Protein processing in endoplasmic reticulum,"108/	806","1120/	44787",0.1,0,1.96E-44,Genetic Information Processing,"Folding, sorting and degradation"
+50,taes04075,Plant hormone signal transduction,"50/	806","1756/	44787",0.03,0,0.013337059,Environmental Information Processing,Signal transduction
+47,taes04626,Plant-pathogen interaction,"47/	806","1301/	44787",0.04,0,0.000160024,Organismal Systems,Environmental adaptation
+39,taes04016,MAPK signaling pathway - plant,"39/	806","876/	44787",0.04,0,1.49E-05,Environmental Information Processing,Signal transduction
+30,taes00500,Starch and sucrose metabolism,"30/	806","757/	44787",0.04,0,0.001184009,Metabolism,Carbohydrate metabolism
+21,taes04144,Endocytosis,"21/	806","594/	44787",0.04,0,0.028582884,Cellular Processes,Transport and catabolism
+19,taes03018,RNA degradation,"19/	806","454/	44787",0.04,0,0.011096621,Genetic Information Processing,"Folding, sorting and degradation"
+15,taes00460,Cyanoamino acid metabolism,"15/	806","363/	44787",0.04,0,0.029311523,Metabolism,Metabolism of other amino acids
+14,taes00906,Carotenoid biosynthesis,"14/	806","154/	44787",0.09,0,2.82E-05,Metabolism,Metabolism of terpenoids and polyketides
+12,taes00999,Biosynthesis of various plant secondary metabolites,"12/	806","408/	44787",0.03,0.05,0.368387907,Metabolism,Biosynthesis of other secondary metabolites
